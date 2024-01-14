@@ -1,0 +1,7 @@
+site_name: MkLorumWithFries
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - About: about.md
+  - My Stuff: example_instructions.md
+theme: readthedocs
